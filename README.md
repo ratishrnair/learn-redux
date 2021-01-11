@@ -1,8 +1,8 @@
 # understanding working of react redux
-References: .\
-https://redux.js.org/tutorials/fundamentals/part-4-store#inside-a-redux-store .\
-https://daveceddia.com/redux-tutorial/ .\
-https://medium.com/better-programming/redux-middleware-in-depth-write-custom-redux-middleware-4f02e2497cd6 .\
+References: \
+https://redux.js.org/tutorials/fundamentals/part-4-store#inside-a-redux-store \
+https://daveceddia.com/redux-tutorial/ \
+https://medium.com/better-programming/redux-middleware-in-depth-write-custom-redux-middleware-4f02e2497cd6 
 
 # Getting Started with Create React App
 
